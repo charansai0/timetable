@@ -86,5 +86,4 @@ Execute the program
 </html>
 
 # OUPUT
-![output](https://github.com/charansai0/timetable/blob/main/README.md)
 ![OUTPUT](https://github.com/charansai0/timetable/blob/main/Screenshot%20(104).png?raw=true)
