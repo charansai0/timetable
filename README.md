@@ -86,4 +86,4 @@ Execute the program
 </html>
 
 # OUPUT
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/timetable/blob/main/Screenshot%20(104).png?raw=true)
